@@ -1,0 +1,19 @@
+{
+  "experiance1":{
+    "company_name" : "Touchstone Foundation",
+    "position" : "Android & Web Developer",
+    "Duration" : {
+      "From" : "July - 2016",
+      "Till" : "Present"
+    }
+  },
+  
+  "experiance2":{
+    "company_name" : "Styre Learning",
+    "position" : "IOS Developer Intern",
+    "Duration" : {
+      "From" : "July - 2017",
+      "Till" : "December - 2017"
+    }
+  }
+}
